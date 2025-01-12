@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "torrent-search-api": "^2.1.4"
+  }
+}
