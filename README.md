@@ -64,7 +64,7 @@ npm install
 Após a instalação, para usar o projeto, basta rodar o comando abaixo dentro do diretório do projeto:
 
 ```bash
-   npm start
+npm start
 ```
 
 ## Exemplos
