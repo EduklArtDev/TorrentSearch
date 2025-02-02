@@ -5,6 +5,6 @@
     "torrent-search-api": "^2.1.4"
   },
   "scripts": {
-    "start": "node --no-deprecation app.js"
+    "start": "node --no-deprecation start.js"
   }
 }

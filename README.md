@@ -32,6 +32,7 @@ Siga os passos abaixo para instalar e configurar o projeto em sua máquina.
    sudo apt upgrade
    sudo apt install node
    sudo apt install nodejs
+   sudo npm install
    ```
 
 ## Como Usar
@@ -39,7 +40,7 @@ Siga os passos abaixo para instalar e configurar o projeto em sua máquina.
 Após a instalação, para usar o projeto, basta rodar o comando abaixo dentro do diretório do projeto:
 
 ```bash
-node app.js
+   npm start
 ```
 
 ## Exemplos
